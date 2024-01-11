@@ -1,0 +1,2 @@
+Faz a análise dos dados para descobrir quais variáveis tem boa correlação 
+após descoberto qual variável pode ser sua target você faz o treino e teste
